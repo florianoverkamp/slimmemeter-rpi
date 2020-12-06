@@ -1,0 +1,12 @@
+[general]
+p1port		= /dev/ttyUSB0
+p1speed		= 115200
+
+[mqtt]
+enable		= false
+hostname	= my-mqtt-host
+post		= 1883
+username	= mqtt-username
+password	= mqtt-password
+topic		= mytopic
+
