@@ -1,4 +1,5 @@
 [general]
+# If you have more USB serial devices you might also select the right device from /dev/serial/by-id/
 p1port		= /dev/ttyUSB0
 p1speed		= 115200
 

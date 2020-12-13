@@ -62,6 +62,7 @@ ser.timeout = 20
 
 # Print program banner
 print("DSMR 5.0 P1 uitlezer", versie)
+print("P1 configured on port", ser.port)
 
 # Open COM port
 try:
